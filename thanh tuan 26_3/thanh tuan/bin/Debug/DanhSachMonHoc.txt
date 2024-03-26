@@ -1,0 +1,11 @@
+10
+T,Toan hoc,4,8.5
+V,Van hoc,4,7.5
+L,Vat ly,3,5.5
+H,Hoa hoc,3,9.0
+Si,Sinh hoc,3,5.5
+D,Dia ly,2,4.5
+Su,Lich su,2,6.0
+MT,My Thuat,1,6.5
+TV,Anh van,5,7.0
+N,Am nhac,2,8.5
