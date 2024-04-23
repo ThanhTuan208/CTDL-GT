@@ -1,0 +1,24 @@
+D:\NguyenThanhLandemo7\NguyenThanhTuan_buoi9_4\bin\Debug\NguyenThanhTuan_buoi9_4.exe.config
+D:\NguyenThanhLandemo7\NguyenThanhTuan_buoi9_4\bin\Debug\NguyenThanhTuan_buoi9_4.exe
+D:\NguyenThanhLandemo7\NguyenThanhTuan_buoi9_4\bin\Debug\NguyenThanhTuan_buoi9_4.pdb
+D:\NguyenThanhLandemo7\NguyenThanhTuan_buoi9_4\obj\Debug\NguyenThanhTuan_buoi9_4.csproj.AssemblyReference.cache
+D:\NguyenThanhLandemo7\NguyenThanhTuan_buoi9_4\obj\Debug\NguyenThanhTuan_buoi9_4.csproj.SuggestedBindingRedirects.cache
+D:\NguyenThanhLandemo7\NguyenThanhTuan_buoi9_4\obj\Debug\NguyenThanhTuan_buoi9_4.csproj.CoreCompileInputs.cache
+D:\NguyenThanhLandemo7\NguyenThanhTuan_buoi9_4\obj\Debug\NguyenThanhTuan_buoi9_4.exe
+D:\NguyenThanhLandemo7\NguyenThanhTuan_buoi9_4\obj\Debug\NguyenThanhTuan_buoi9_4.pdb
+C:\Users\Administrator\Downloads\CTDL-GT\NguyenThanhTuan_buoi9_4\bin\Debug\NguyenThanhTuan_buoi9_4.exe.config
+C:\Users\Administrator\Downloads\CTDL-GT\NguyenThanhTuan_buoi9_4\bin\Debug\NguyenThanhTuan_buoi9_4.exe
+C:\Users\Administrator\Downloads\CTDL-GT\NguyenThanhTuan_buoi9_4\bin\Debug\NguyenThanhTuan_buoi9_4.pdb
+C:\Users\Administrator\Downloads\CTDL-GT\NguyenThanhTuan_buoi9_4\obj\Debug\NguyenThanhTuan_buoi9_4.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\CTDL-GT\NguyenThanhTuan_buoi9_4\obj\Debug\NguyenThanhTuan_buoi9_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\CTDL-GT\NguyenThanhTuan_buoi9_4\obj\Debug\NguyenThanhTuan_buoi9_4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\CTDL-GT\NguyenThanhTuan_buoi9_4\obj\Debug\NguyenThanhTuan_buoi9_4.exe
+C:\Users\Administrator\Downloads\CTDL-GT\NguyenThanhTuan_buoi9_4\obj\Debug\NguyenThanhTuan_buoi9_4.pdb
+C:\Users\Administrator\Downloads\bai hoc lop 16_4\NguyenThanhTuan_buoi9_4\bin\Debug\NguyenThanhTuan_buoi9_4.exe.config
+C:\Users\Administrator\Downloads\bai hoc lop 16_4\NguyenThanhTuan_buoi9_4\bin\Debug\NguyenThanhTuan_buoi9_4.exe
+C:\Users\Administrator\Downloads\bai hoc lop 16_4\NguyenThanhTuan_buoi9_4\bin\Debug\NguyenThanhTuan_buoi9_4.pdb
+C:\Users\Administrator\Downloads\bai hoc lop 16_4\NguyenThanhTuan_buoi9_4\obj\Debug\NguyenThanhTuan_buoi9_4.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\bai hoc lop 16_4\NguyenThanhTuan_buoi9_4\obj\Debug\NguyenThanhTuan_buoi9_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\bai hoc lop 16_4\NguyenThanhTuan_buoi9_4\obj\Debug\NguyenThanhTuan_buoi9_4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\bai hoc lop 16_4\NguyenThanhTuan_buoi9_4\obj\Debug\NguyenThanhTuan_buoi9_4.exe
+C:\Users\Administrator\Downloads\bai hoc lop 16_4\NguyenThanhTuan_buoi9_4\obj\Debug\NguyenThanhTuan_buoi9_4.pdb
